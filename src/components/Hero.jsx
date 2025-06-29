@@ -8,7 +8,7 @@ const Hero = () => {
           <div className="hero-content">
             <div className="hero-image-container">
               <img 
-                src="/src/assets/kaushal.jpg" 
+                src="/assets/kaushal.jpg" 
                 alt="Kaushal Khadka" 
                 className="hero-image" 
               />
